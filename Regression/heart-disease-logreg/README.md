@@ -99,9 +99,6 @@ Though more complex models may yield marginally higher accuracy, logistic regres
 ## 📌 Future Work
 
 * Compare with more complex models: Random Forest, XGBoost, Neural Nets
-* Add SHAP or LIME for interpretability
-* Deploy a web interface for public use
-* Perform cross-validation and hyperparameter tuning
 
 ---
 
