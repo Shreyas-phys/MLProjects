@@ -35,7 +35,7 @@ The goal is to demonstrate how a simple, interpretable model like logistic regre
 
 <img src="img/ROC Curve.png" alt="ROC Curve" width="500"/>
 
-The **Receiver Operating Characteristic (ROC)** curve plots the trade-off between **True Positive Rate (Sensitivity)** and **False Positive Rate**. The **AUC (Area Under the Curve)** for this model is **0.91**, indicating high discriminative ability.
+The **Receiver Operating Characteristic (ROC)** curve plots the trade-off between **True Positive Rate (Sensitivity)** and **False Positive Rate**. The **AUC (Area Under the Curve)** for this model is **0.84**, indicating high discriminative ability.
 
 ---
 
@@ -74,11 +74,11 @@ These histograms show the distribution of key features like `age`, `cholesterol`
 
 | Metric               | Value |
 | -------------------- | ----- |
-| Accuracy             | 0.85  |
-| Precision            | 0.82  |
-| Recall (Sensitivity) | 0.88  |
-| F1 Score             | 0.85  |
-| ROC AUC              | 0.91  |
+| Accuracy             | 0.73  |
+| Precision            | 0.77  |
+| Recall (Sensitivity) | 0.72  |
+| F1 Score             | 0.74  |
+| ROC AUC              | 0.84  |
 
 These metrics suggest the model is **balanced and effective** at detecting heart disease with low error.
 
